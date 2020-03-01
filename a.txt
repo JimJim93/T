@@ -1,2 +1,4 @@
 create a.txt
 hello one
+insert hhhhh
+wowowoowow
